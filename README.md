@@ -3,7 +3,7 @@
 Project usilising the Scikit-Learn `make_moons()` dataset to classify a binary dataset using a simple Neural Network built in TensorFlow 2.X.
 
 ## This project uses:
-* TensorFlow 2.X to create, train and evaluate the performance of binary classification
+* TensorFlow 2.X to create, train and evaluate the performance of a binary classification dataset
 * Sequential API to build a simple neural network composed of 3 fully-connected Dense layers with sigmoid activation
 * Decision boundary plotting on the dataset
 
